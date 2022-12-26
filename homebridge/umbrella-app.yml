@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: homebridge
+name: Homebridge
+tagline: Homebridge for Umbrel
+icon: https://avatars.githubusercontent.com/u/38217527?s=200&v=4
+category: Development
+version: "1.0.0"
+port: 8581
+description: >-
+This is a homebridge port to work with Umbrel since they are annoying and didn't accept it.
+developer: Umbrel
+website: https://homebridge.io
+submitter: Babyyoda777
+submission: https://github.com/homebridge/homebridge
+repo: https://github.com/homebridge/homebridge
+support: https://github.com/homebridge/homebridge/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
